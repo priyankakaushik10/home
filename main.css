@@ -16,7 +16,6 @@ div.name h2{
 }
 div.creator{
     text-align: center;
-    position: relative;
     bottom: 10px;
     font-size: 14pt;
     font-family: "Courier New";
