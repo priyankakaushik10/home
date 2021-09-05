@@ -1,0 +1,35 @@
+@media only screen and (min-width: 600px) {
+body{
+	background-image: url("images/back.png");
+	background-repeat: no-repeat;
+	background-size: 100% ;
+}
+}
+
+div.name{
+    text-align: center;
+    color: darkslategray;
+}
+div.name h2{
+    font-family: "Courier New";
+    font-weight: bold;
+}
+div.creator{
+    text-align: center;
+    font-size: 14pt;
+    font-family: "Courier New";
+    font-weight: bold;
+
+}
+div.identity{
+margin-left: 30px;
+}
+div.identity h2{
+	color: darkslategray;
+	font-family: "Courier New";
+    font-weight: bold;
+}
+div.photo{
+    margin-right: 10px;
+    width: 300px;
+}
